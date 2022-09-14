@@ -1,0 +1,15 @@
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.csproj.AssemblyReference.cache
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.AssemblyInfoInputs.cache
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.AssemblyInfo.cs
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.exe
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.deps.json
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.runtimeconfig.json
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.dll
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\bin\Debug\net6.0\AreaOfCircle.pdb
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.dll
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\net6.0\refint\AreaOfCircle.dll
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.pdb
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\net6.0\AreaOfCircle.genruntimeconfig.cache
+C:\Users\Earl Starks\Desktop\repos\AreaOfCircle\AreaOfCircle\AreaOfCircle\obj\Debug\net6.0\ref\AreaOfCircle.dll
